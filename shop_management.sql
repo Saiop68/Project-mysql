@@ -11,7 +11,7 @@ USE shop_management;
 DROP TABLE IF EXISTS shop;
 DROP TABLE IF EXISTS customers;
 
--- ----------------------------------------------------------------------------
+-- ---------------------------------------------------------------------------
 -- Table structure for table `customers`
 -- ----------------------------------------------------------------------------
 CREATE TABLE customers (
