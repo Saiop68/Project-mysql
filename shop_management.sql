@@ -1,5 +1,5 @@
 -- ============================================================================
--- MySQL Retail Shop Management Dataset
+-- MySQL Retail Shop Management Dataset Pratham 
 -- Target Schema: MySQL 8.0+
 -- Compatible with MySQL Workbench, phpMyAdmin, and Command Line Client
 -- ============================================================================
